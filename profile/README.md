@@ -99,4 +99,4 @@ All plans include Live Chat and Ticket Support
 - Emergency Response Testing - Starting at *$350* (quarterly test)
 - Disaster Recovery Testing - Starting at *$2,000* (annual test)
 - Business Continuity Testing - Starting at *$2,000* (annual test)
-- Pentest (Burp) - *$3,500*
+- Pentest (Burp) - Starting at *$3,500*
