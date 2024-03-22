@@ -1,6 +1,8 @@
 # Pricing
 
-All plans include Live Chat and Ticket Support. Submit your tickets at www.imgfunnels.com.
+All plans include Live Chat and Ticket Support. 
+
+Submit your tickets at www.imgfunnels.com.
 
 ## Examples:
 
