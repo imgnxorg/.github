@@ -3,7 +3,6 @@
 All plans include Live Chat and Ticket Support
 
 ## Services
----
 
 ### AWS
 
