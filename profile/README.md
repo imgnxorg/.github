@@ -97,15 +97,16 @@ All plans include Live Chat and Ticket Support
 
 ## Apps (GUI)
 
+All pricing plans include monthly dependency audits.
+
 ### Vercel (JS Server app)
 
-- *$20/mo.*
+- *$25/mo.*
 
 ### SST (Vercel on AWS)
 
 - *$26/mo.*
     - HIPAA Eligible
-    - Monthly dependency audits - Included
     - Lambda and CloudFront - Included
 
 
