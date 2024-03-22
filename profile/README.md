@@ -13,12 +13,12 @@ All plans include Live Chat and Ticket Support
 > A Vercel app with a "Magic Link" provider and monthly dependency audits.
 
 `Advanced`
-> ### $156 per month
-> An SST app with a single OAuth provider, all legal documents, data backups, and WAF protection.
+> ### $159 per month
+> An SST app with a single OAuth provider, all legal documents, data and storage backups, and WAF protection.
 
 `Expert`
-> ### $456 per month
-> An SST app with a single OAuth provider, an Internal OAuth provider, all legal documents, data backups, WAF protection, 2 integrations, and a monthly Risk Assessment.
+> ### $459 per month
+> An SST app with a single OAuth provider, an Internal OAuth provider, all legal documents, data and storage backups, WAF protection, 2 integrations, and a monthly Risk Assessment.
 
 ## Services
 
@@ -36,8 +36,10 @@ All plans include Live Chat and Ticket Support
     - Ask for pricing on higher volume tiers
 - S3 Bucket - *$4/mo.*
     - *$0.029/GB*
+    - Backups - *$3/mo.*
 - 200+ services
-    -  Ask for pricing
+    - CloudFormation, API Gateway, Bedrock (AI), Textract, EC2, SQS, SNS, etc.
+    - Ask for pricing
 
 ### Cloudflare
 
