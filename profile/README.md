@@ -10,7 +10,7 @@ All plans include Live Chat and Ticket Support
 
 `Basic`
 > ### $75 per month
-> A Vercel app with a "Magic Link" provider and monthly dependency audits.
+> A Vercel app with a "Magic Link" provider. Monthly dependency audits included.
 
 `Advanced`
 > ### $159 per month
