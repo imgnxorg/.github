@@ -93,11 +93,9 @@ All plans include Live Chat and Ticket Support
 
 ### LeadConnector
 
-- Starting at $79/mo.
+- Starting at *$79/mo.*
 
 ## Apps (GUI)
-
-All pricing includes monthly dependency audits.
 
 ### Vercel (JS Server app)
 
@@ -107,6 +105,7 @@ All pricing includes monthly dependency audits.
 
 - *$26/mo.*
     - HIPAA Eligible
+    - Monthly dependency audits - Included
     - Lambda and CloudFront - Included
 
 
