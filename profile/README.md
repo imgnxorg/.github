@@ -6,7 +6,7 @@ All plans include Live Chat and Ticket Support
 
 ### AWS
 
-- Lambda (function) - *$5/mo.*
+- Lambda (function) - <mark>*$5/mo.*</mark>
     - Duration - *$0.00002166671/GB/s*
     - Requests - *$0.26/1M requests*
 - CloudFront ("hosting") - *$5/mo.*
