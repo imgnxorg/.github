@@ -19,8 +19,8 @@ Submit your tickets at www.imgfunnels.com.
 > An SST app with a single OAuth provider, all legal documents, data and storage backups, and WAF protection.
 
 `Expert`
-> ### $459 per month
-> An SST app with a single OAuth provider, an Internal OAuth provider, all legal documents, data and storage backups, WAF protection, 2 integrations, and a monthly Risk Assessment.
+> ### $429 per month
+> An SST app with a "Magic Link" provider, an Internal OAuth provider, all legal documents, data and storage backups, WAF protection, 2 integrations, and a monthly Risk Assessment.
 
 ## Services
 
