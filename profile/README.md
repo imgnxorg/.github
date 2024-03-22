@@ -79,6 +79,7 @@ All plans include Live Chat and Ticket Support
 ### SST (Vercel on AWS)
 - *$26/mo.*
     - HIPAA Eligible
+    - Lambda and CloudFront - Included
 
 
 ## Prototyping & Custom Development
