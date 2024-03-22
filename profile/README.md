@@ -59,7 +59,7 @@ All plans include Live Chat and Ticket Support
 - All other services
     - Ask for pricing
     
-### Audit Logs & Log Drains
+### Audit Logs
 
 - 3 day retention - *$1.38/1M/mo.*
 - 7 day retention - *$1.65/1M/mo.*
