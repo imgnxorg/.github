@@ -8,19 +8,19 @@ Submit your tickets at www.imgfunnels.com.
 
 `Simple`
 > ### $10 per month
-> A standalone function, such as a worker, with monthly dependency audits.
+> A standalone function, such as a worker ($5), with monthly dependency audits ($5).
 
 `Basic`
 > ### $75 per month
-> A Vercel app with a "Magic Link" provider. Monthly dependency audits included.
+> A Vercel app ($25) with a "Magic Link" provider ($50). Monthly dependency audits included.
 
 `Advanced`
-> ### $159 per month
-> An SST app with a single OAuth provider, all legal documents, data and storage backups, and WAF protection.
+> ### $179 per month
+> An SST app ($26) with a single OAuth provider ($100), all legal documents ($26), data ($20) and storage ($3) backups, and WAF protection ($4).
 
 `Expert`
 > ### $429 per month
-> An SST app with a "Magic Link" provider, an Internal OAuth provider, all legal documents, data and storage backups, WAF protection, 2 integrations, and a monthly Risk Assessment.
+> An SST app ($26) with a "Magic Link" provider ($50), an Internal OAuth provider ($200), all legal documents ($26), data ($20) and storage ($3) backups, WAF protection ($4), 2 integrations, and a monthly Risk Assessment ($50 x2 = $100).
 
 ## Services
 
